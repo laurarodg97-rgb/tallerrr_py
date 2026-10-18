@@ -4,5 +4,5 @@
 
 | Nombre completo | Correo institucional | Identidades git |
 |---|---|---|
-| Juan David Roa | correo institucional | identidad git |
-| Laura Camila Rodríguez Granados | correo institucional | identidad git |
+| Juan David Roa | juandavidroa0@gmail.com | laurarodg97-rgb <laurarodg97@gmail.com>, juandavidroa0@gmail.com |
+| Laura Camila Rodríguez Granados | laurarodg97@gmail.com | laurarodg97-rgb <laurarodg97@gmail.com> |
